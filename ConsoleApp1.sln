@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{321AFB1A-1874-44D3-B34E-13B76F5215CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMathArea", "ClassMathArea\ClassMathArea.csproj", "{0B8FCFBB-E0DA-4C2A-911A-2035684BF29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestISBN", "UnitTestISBN\UnitTestISBN.csproj", "{09EB2AA7-1438-4F2A-B8D0-91B5F44AED3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{321AFB1A-1874-44D3-B34E-13B76F5215CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{321AFB1A-1874-44D3-B34E-13B76F5215CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{321AFB1A-1874-44D3-B34E-13B76F5215CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8FCFBB-E0DA-4C2A-911A-2035684BF29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8FCFBB-E0DA-4C2A-911A-2035684BF29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8FCFBB-E0DA-4C2A-911A-2035684BF29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8FCFBB-E0DA-4C2A-911A-2035684BF29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EB2AA7-1438-4F2A-B8D0-91B5F44AED3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EB2AA7-1438-4F2A-B8D0-91B5F44AED3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EB2AA7-1438-4F2A-B8D0-91B5F44AED3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EB2AA7-1438-4F2A-B8D0-91B5F44AED3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
