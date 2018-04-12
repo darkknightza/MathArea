@@ -8,6 +8,5 @@ notifications:
  email:
     recipients:
     - knightdmr@gmail.com
-    - bundit@mycostech.com
  on_success: always
  on_failure: always
