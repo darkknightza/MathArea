@@ -1612,15 +1612,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "ConsoleApp1/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/ConsoleApp1.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ConsoleApp1.dll": {}
-        }
-      },
       "UnitLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -5703,11 +5694,6 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "ConsoleApp1/1.0.0": {
-      "type": "project",
-      "path": "../ConsoleApp1/ConsoleApp1.csproj",
-      "msbuildProject": "../ConsoleApp1/ConsoleApp1.csproj"
-    },
     "UnitLibrary/1.0.0": {
       "type": "project",
       "path": "../UnitLibrary/UnitLibrary.csproj",
@@ -5716,7 +5702,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "ConsoleApp1 >= 1.0.0",
       "MSTest.TestAdapter >= 1.2.0",
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.6.0",
@@ -5754,9 +5739,6 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\MyCos\\Lab\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
-              "projectPath": "D:\\MyCos\\Lab\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
-            },
             "D:\\MyCos\\Lab\\ConsoleApp1\\UnitLibrary\\UnitLibrary.csproj": {
               "projectPath": "D:\\MyCos\\Lab\\ConsoleApp1\\UnitLibrary\\UnitLibrary.csproj"
             }

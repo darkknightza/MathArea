@@ -1,20 +1,17 @@
-﻿using ConsoleApp1.ClassArea;
+﻿using ConsoleApp1;
+using ConsoleApp1.ClassArea;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ProgramMathArea
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ICalArea tg = new Triangle(10,20);
-            ICalArea rt = new Rectangle(5,10);
+            ICalArea tg = new Triangle(10, 20);
+            ICalArea rt = new Rectangle(5, 10);
             ICalArea sq = new Square(10);
-            ICalArea el = new Ellipse(10,30);
+            ICalArea el = new Ellipse(10, 30);
             ICalArea ci = new Circle(10);
             Console.WriteLine(tg.GetArea());
             Console.WriteLine(tg.GetPerimetor());
@@ -29,15 +26,6 @@ namespace ConsoleApp1
 
 
             Console.ReadLine();
-        }
-        /// <summary>
-        /// name bbb
-        ///
-        /// </summary>
-        /// <param name="name">name of cat</param>
-        public static void GetCat(string name)
-        {
-            Console.WriteLine(name);
         }
     }
 }
