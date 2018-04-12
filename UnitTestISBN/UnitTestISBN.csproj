@@ -13,8 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassMathArea\ClassMathArea.csproj" />
     <ProjectReference Include="..\ConsoleApp1\ConsoleApp1.csproj" />
+    <ProjectReference Include="..\UnitLibrary\UnitLibrary.csproj" />
   </ItemGroup>
 
 </Project>

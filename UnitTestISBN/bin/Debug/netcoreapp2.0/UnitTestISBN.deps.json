@@ -8,11 +8,11 @@
     ".NETCoreApp,Version=v2.0": {
       "UnitTestISBN/1.0.0": {
         "dependencies": {
-          "ClassMathArea": "1.0.0",
           "ConsoleApp1": "1.0.0",
           "MSTest.TestAdapter": "1.2.0",
           "MSTest.TestFramework": "1.2.0",
-          "Microsoft.NET.Test.Sdk": "15.6.0"
+          "Microsoft.NET.Test.Sdk": "15.6.0",
+          "UnitLibrary": "1.0.0"
         },
         "runtime": {
           "UnitTestISBN.dll": {}
@@ -1000,14 +1000,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "ClassMathArea/1.0.0": {
-        "runtime": {
-          "ClassMathArea.dll": {}
-        }
-      },
       "ConsoleApp1/1.0.0": {
         "runtime": {
           "ConsoleApp1.exe": {}
+        }
+      },
+      "UnitLibrary/1.0.0": {
+        "runtime": {
+          "UnitLibrary.dll": {}
         }
       }
     }
@@ -1515,12 +1515,12 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
-    "ClassMathArea/1.0.0": {
+    "ConsoleApp1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "ConsoleApp1/1.0.0": {
+    "UnitLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

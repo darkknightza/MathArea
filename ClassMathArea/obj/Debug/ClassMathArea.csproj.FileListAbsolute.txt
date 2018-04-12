@@ -1,6 +1,0 @@
-D:\MyCos\Lab\ConsoleApp1\ClassMathArea\bin\Debug\ClassMathArea.dll
-D:\MyCos\Lab\ConsoleApp1\ClassMathArea\bin\Debug\ClassMathArea.pdb
-D:\MyCos\Lab\ConsoleApp1\ClassMathArea\obj\Debug\ClassMathArea.csprojResolveAssemblyReference.cache
-D:\MyCos\Lab\ConsoleApp1\ClassMathArea\obj\Debug\ClassMathArea.csproj.CoreCompileInputs.cache
-D:\MyCos\Lab\ConsoleApp1\ClassMathArea\obj\Debug\ClassMathArea.dll
-D:\MyCos\Lab\ConsoleApp1\ClassMathArea\obj\Debug\ClassMathArea.pdb

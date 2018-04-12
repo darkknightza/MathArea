@@ -1,0 +1,9 @@
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\bin\Debug\netcoreapp2.0\UnitLibrary.deps.json
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\bin\Debug\netcoreapp2.0\UnitLibrary.dll
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\bin\Debug\netcoreapp2.0\UnitLibrary.pdb
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\obj\Debug\netcoreapp2.0\UnitLibrary.csprojResolveAssemblyReference.cache
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\obj\Debug\netcoreapp2.0\UnitLibrary.csproj.CoreCompileInputs.cache
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\obj\Debug\netcoreapp2.0\UnitLibrary.AssemblyInfoInputs.cache
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\obj\Debug\netcoreapp2.0\UnitLibrary.AssemblyInfo.cs
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\obj\Debug\netcoreapp2.0\UnitLibrary.dll
+D:\MyCos\Lab\ConsoleApp1\UnitLibrary\obj\Debug\netcoreapp2.0\UnitLibrary.pdb
