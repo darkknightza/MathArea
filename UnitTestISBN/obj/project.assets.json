@@ -1612,6 +1612,19 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "ProgramMathArea/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProgramMathArea.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgramMathArea.dll": {}
+        }
+      },
       "UnitLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -5694,6 +5707,11 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "ProgramMathArea/1.0.0": {
+      "type": "project",
+      "path": "../ProgramMathArea/ProgramMathArea.csproj",
+      "msbuildProject": "../ProgramMathArea/ProgramMathArea.csproj"
+    },
     "UnitLibrary/1.0.0": {
       "type": "project",
       "path": "../UnitLibrary/UnitLibrary.csproj",
@@ -5706,6 +5724,7 @@
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.6.0",
       "Microsoft.NETCore.App >= 2.0.0",
+      "ProgramMathArea >= 1.0.0",
       "UnitLibrary >= 1.0.0"
     ]
   },
@@ -5739,6 +5758,9 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "D:\\MyCos\\Lab\\ConsoleApp1\\ProgramMathArea\\ProgramMathArea.csproj": {
+              "projectPath": "D:\\MyCos\\Lab\\ConsoleApp1\\ProgramMathArea\\ProgramMathArea.csproj"
+            },
             "D:\\MyCos\\Lab\\ConsoleApp1\\UnitLibrary\\UnitLibrary.csproj": {
               "projectPath": "D:\\MyCos\\Lab\\ConsoleApp1\\UnitLibrary\\UnitLibrary.csproj"
             }

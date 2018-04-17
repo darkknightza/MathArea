@@ -8,3 +8,4 @@ D:\MyCos\Lab\ConsoleApp1\ProgramMathArea\obj\Debug\netcoreapp2.0\ProgramMathArea
 D:\MyCos\Lab\ConsoleApp1\ProgramMathArea\obj\Debug\netcoreapp2.0\ProgramMathArea.AssemblyInfo.cs
 D:\MyCos\Lab\ConsoleApp1\ProgramMathArea\obj\Debug\netcoreapp2.0\ProgramMathArea.dll
 D:\MyCos\Lab\ConsoleApp1\ProgramMathArea\obj\Debug\netcoreapp2.0\ProgramMathArea.pdb
+D:\MyCos\Lab\ConsoleApp1\ProgramMathArea\obj\Debug\netcoreapp2.0\ProgramMathArea.csprojResolveAssemblyReference.cache

@@ -6,9 +6,6 @@ D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\UnitTestISBN.runti
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\UnitTestISBN.runtimeconfig.dev.json
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\UnitTestISBN.dll
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\UnitTestISBN.pdb
-D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\ConsoleApp1.exe
-D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
-D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\ConsoleApp1.exe.config
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\obj\Debug\netcoreapp2.0\UnitTestISBN.csprojResolveAssemblyReference.cache
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\obj\Debug\netcoreapp2.0\UnitTestISBN.csproj.CoreCompileInputs.cache
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\obj\Debug\netcoreapp2.0\UnitTestISBN.AssemblyInfoInputs.cache
@@ -18,3 +15,5 @@ D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\obj\Debug\netcoreapp2.0\UnitTestISBN.dll
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\obj\Debug\netcoreapp2.0\UnitTestISBN.pdb
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\UnitLibrary.dll
 D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\UnitLibrary.pdb
+D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\ProgramMathArea.dll
+D:\MyCos\Lab\ConsoleApp1\UnitTestISBN\bin\Debug\netcoreapp2.0\ProgramMathArea.pdb

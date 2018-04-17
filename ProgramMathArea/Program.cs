@@ -8,7 +8,7 @@ namespace ProgramMathArea
     {
         static void Main(string[] args)
         {
-            ICalArea tg = new Triangle(10, 20);
+            ICalArea tg = new Triangle(4, 5);
             ICalArea rt = new Rectangle(5, 10);
             ICalArea sq = new Square(10);
             ICalArea el = new Ellipse(10, 30);

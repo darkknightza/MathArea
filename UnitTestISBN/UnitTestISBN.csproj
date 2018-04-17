@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ProgramMathArea\ProgramMathArea.csproj" />
     <ProjectReference Include="..\UnitLibrary\UnitLibrary.csproj" />
   </ItemGroup>
 
