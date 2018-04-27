@@ -13,112 +13,138 @@ namespace UnitTestISBN
     {
         [TestMethod]
         public void TriangleGetArea_WidthFourHeightFive_TEN()
-        {   
+        {
             //Arrange
-            Triangle triangle = new Triangle(4,5);
+            int width = 4;
+            int height = 5;
+            Triangle triangle = new Triangle(width, height);
             //Act
             var result = triangle.GetArea();
             //Assert
-            Assert.AreEqual(10,result);
+            int resultArea = 10;
+            Assert.AreEqual(resultArea, result);
         }
 
         [TestMethod]
         public void TriangleGetPerimetor_WidthThreeHeightFour_12()
         {
             //Arrange
-            Triangle triangle = new Triangle(3, 4);
+            int width = 3;
+            int height = 4;
+            Triangle triangle = new Triangle(width, height);
             //Act
             var result = triangle.GetPerimetor();
             //Assert
-            Assert.AreEqual(12, Math.Round(result, 1));
+            int resultPerimetor = 12;
+            Assert.AreEqual(resultPerimetor, Math.Round(result, 1));
         }
 
         [TestMethod]
         public void RectangleGetArea_WidthThreeHeightFour_12()
         {
             //Arrange
-            ICalArea rectangle = new Rectangle(3,4);
+            int width = 3;
+            int height = 4;
+            ICalArea rectangle = new Rectangle(width, height);
             //Act
             var result = rectangle.GetArea();
             //Assert
-            Assert.AreEqual(12, Math.Round(result, 1));
+            int resultArea = 12;
+            Assert.AreEqual(resultArea, Math.Round(result, 1));
         }
 
         [TestMethod]
         public void RectangleGetPerimetor_WidthThreeHeightFour_14()
         {
             //Arrange
-            ICalArea rectangle = new Rectangle(3, 4);
+            int width = 3;
+            int height = 4;
+            ICalArea rectangle = new Rectangle(width, height);
             //Act
             var result = rectangle.GetPerimetor();
             //Assert
-            Assert.AreEqual(14, Math.Round(result, 1));
+            int resultPerimetor = 14;
+            Assert.AreEqual(resultPerimetor, Math.Round(result, 1));
         }
 
         [TestMethod]
-        public void SquareGetArea_WidthFour_12()
+        public void SquareGetArea_WidthFour_16()
         {
             //Arrange
-            ICalArea square = new Square(4);
+            int width = 4;
+            ICalArea square = new Square(width);
             //Act
             var result = square.GetArea();
             //Assert
-            Assert.AreEqual(16, Math.Round(result, 1));
+            int resultArea = 16;
+            Assert.AreEqual(resultArea, Math.Round(result, 1));
         }
 
         [TestMethod]
         public void SquareGetPerimetor_WidthThree_12()
         {
             //Arrange
-            ICalArea square = new Square(3);
+            int width = 3;
+            ICalArea square = new Square(width);
             //Act
             var result = square.GetPerimetor();
             //Assert
-            Assert.AreEqual(12, Math.Round(result, 1));
+            int resultPerimetor = 12;
+            Assert.AreEqual(resultPerimetor, Math.Round(result, 1));
         }
 
         [TestMethod]
         public void EllipseGetArea_WidthThreeHeightFour_37()
         {
             //Arrange
-            ICalArea ellipse = new Ellipse(3,4);
+            int width = 3;
+            int height = 4;
+            ICalArea ellipse = new Ellipse(width, height);
             //Act
             var result = ellipse.GetArea();
             //Assert
-            Assert.AreEqual(37.7, Math.Round(result, 1));
+            double resultArea = 37.7;
+            Assert.AreEqual(resultArea, Math.Round(result, 1));
         }
 
         [TestMethod]
         public void EllipseGetPerimetor_WidthThreeHeightFour_22()
         {
             //Arrange
-            ICalArea ellipse = new Ellipse(3,4);
+            int width = 3;
+            int height = 4;
+            ICalArea ellipse = new Ellipse(width, height);
             //Act
             var result = ellipse.GetPerimetor();
             //Assert
-            Assert.AreEqual(22, Math.Round(result, 1));
+            int resultPerimetor = 22;
+            Assert.AreEqual(resultPerimetor, Math.Round(result, 1));
         }
 
         [TestMethod]
         public void CircleGetArea_RediusThree_28()
         {
             //Arrange
-            ICalArea circle = new Circle(3);
+            int redius = 3;
+            ICalArea circle = new Circle(redius);
             //Act
             var result = circle.GetArea();
             //Assert
-            Assert.AreEqual(28.3, Math.Round(result, 1));
+            double resultArea = 28.3;
+            Assert.AreEqual(resultArea, Math.Round(result, 1));
         }
 
         [TestMethod]
         public void CircleGetPerimetor_RediusThree_18()
         {
             //Arrange
-            ICalArea circle = new Circle(3);
+            int redius = 3;
+            ICalArea circle = new Circle(redius);
             //Act
             var result = circle.GetPerimetor();
             //Assert
-            Assert.AreEqual(18.8, Math.Round(result, 1));
+            double resultPerimetor = 18.8;
+            Assert.AreEqual(resultPerimetor, Math.Round(result, 1));
         }
     }
 }

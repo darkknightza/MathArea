@@ -10,15 +10,14 @@ namespace ConsoleApp1.ClassArea
     {
         private double RediusX;
         private double RediusY;
-        private double Pi = 3.14;
         public double GetArea()
         {
-            return Pi * RediusX * RediusY;
+            return Math.PI * RediusX * RediusY;
         }
 
         public double GetPerimetor()
         {
-            return Pi*(RediusX + RediusY);
+            return Math.PI * (RediusX + RediusY);
         }
         public Ellipse(double x, double y)
         {
